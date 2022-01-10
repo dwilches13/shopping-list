@@ -1,0 +1,6 @@
+- Milk
+- Cereal
+- Iced tea
+- Bread
+- Eggs
+- Chicke strips
